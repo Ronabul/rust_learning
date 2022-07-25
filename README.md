@@ -1,2 +1,2 @@
 # rust_learning
-i am ron and this is where i learn rust.
+hello i am avinoam and this is where i learn rust.
