@@ -1,2 +1,2 @@
 # rust_learning
-this is my rust learning repo!
+i am ron and this is where i learn rust.
